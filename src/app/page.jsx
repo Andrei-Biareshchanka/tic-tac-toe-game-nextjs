@@ -1,7 +1,7 @@
 "use client";
 
 import Header from "@/components/header/Header";
-import Game from "@/components/game-new/Game";
+import Game from "@/components/game/Game";
 
 export default function Home() {
   return (
